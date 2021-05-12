@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheney_Dialer", "Cheney_Dialer\Cheney_Dialer.csproj", "{DBBCDC78-E5B2-4959-BC09-077A8D13DFF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBCDC78-E5B2-4959-BC09-077A8D13DFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBCDC78-E5B2-4959-BC09-077A8D13DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBCDC78-E5B2-4959-BC09-077A8D13DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBCDC78-E5B2-4959-BC09-077A8D13DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E387BBCD-3E7C-4B6C-8528-4C16AEEC6A1A}
+	EndGlobalSection
+EndGlobal
